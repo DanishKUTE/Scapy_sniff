@@ -45,9 +45,6 @@ python
 
 #!/usr/bin/python3
 
-# Author: Daniel Ishaku Ando
-# website: https:danishkute.carrd.co
-
 from scapy.all import *
 
 2. Analyzing UDP Headers
